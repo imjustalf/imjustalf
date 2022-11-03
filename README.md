@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imjustalf
 - 👀 I’m interested in music, art and code
-- 🌱 I’m currently learning .NET Core and Angular 11
+- 🌱 I’m currently learning .NET Core and Angular
 - 💞️ I’m looking to collaborate with anything.
 
 <!---
